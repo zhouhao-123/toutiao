@@ -1,6 +1,6 @@
 <template>
   <div id="app">
-    <h1>黑马优购</h1>
+    <!-- 路由占位符 -->
     <router-view/>
   </div>
 </template>
@@ -11,5 +11,4 @@ export default {
 }
 </script>
 
-<style lang="less">
-</style>
+<style lang="less"></style>
